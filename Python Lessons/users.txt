@@ -1,0 +1,5 @@
+admin01|admin123
+stud01|stud123
+stud02|stud1234
+peter|peter123
+t-tech|tech123
